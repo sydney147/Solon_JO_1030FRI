@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="pastel_background">#F7F3E7</color> <!-- Soft beige -->
+    <color name="pastel_text">#3E4C6D</color> <!-- Dark slate blue -->
+    <color name="pastel_description">#6D758D</color> <!-- Soft greyish blue -->
+
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:background="#D1D1D1">
+
+    <!-- ListView on the left side -->
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:background="@color/pastel_background"
+        android:dividerHeight="1dp"
+        android:layout_margin="10dp"/>
+
+    <!-- Fragment container on the right side -->
+    <FrameLayout
+        android:id="@+id/fragmentContainer"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="2"
+        android:layout_margin="20dp"
+        android:background="@drawable/border" /> <!-- Optional background color for the fragment -->
+
+</LinearLayout>
