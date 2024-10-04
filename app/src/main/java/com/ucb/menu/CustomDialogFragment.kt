@@ -11,10 +11,8 @@ import androidx.fragment.app.FragmentManager
 
 class CustomDialogFragment : DialogFragment() {
 
-    // FragmentManager to handle fragment transactions
     private var fragmentManager: FragmentManager? = null
 
-    // Method to set FragmentManager from activity or another fragment
     fun setFragmentManager(manager: FragmentManager) {
         fragmentManager = manager
     }
@@ -37,22 +35,22 @@ class CustomDialogFragment : DialogFragment() {
         titleTextView.text = "Trailblaze"
         messageTextView.text = "Will you trailblaze across the vast area of space or follow the nihility of the void which consumes all beings?"
 
+        // Action for positive button: navigate to AnotherFragment
         positiveButton.setOnClickListener {
-            // Action for positive button: navigate to another fragment
             if (fragmentManager != null) {
-                val anotherFragment = HomeFragment() // Replace with your actual fragment
+                val anotherFragment = AnotherFragment() // Navigates to AnotherFragment
                 requireFragmentManager().beginTransaction()
-                    .replace(R.id.fragment_container, anotherFragment) // Use your actual container ID
-                    .addToBackStack(null) // Optional: allows user to navigate back
+                    .replace(R.id.fragment_container, anotherFragment)
+                    .addToBackStack(null) // Optional: allows the user to go back
                     .commit()
             }
             dismiss() // Close the dialog
         }
 
+        // Action for negative button: navigate back to HomeFragment
         negativeButton.setOnClickListener {
-            // Action for negative button: navigate back to HomeFragment
             requireFragmentManager().beginTransaction()
-                .replace(R.id.fragment_container, HomeFragment()) // Navigate back to HomeFragment
+                .replace(R.id.fragment_container, HomeFragment()) // Navigates back to HomeFragment
                 .addToBackStack(null) // Optional: allows user to navigate back to the dialog if needed
                 .commit()
             dismiss() // Close the dialog

@@ -17,8 +17,9 @@ class MainActivity : AppCompatActivity() {
         supportActionBar?.title = "Honkai Star Rail"
         supportActionBar?.subtitle = "Trailblaze Across the Stars"
 
-        // Load the initial fragment
-        if (savedInstanceState == null) {            loadFragment(HomeFragment())
+        // Load the initial fragment - Now it's set to AnotherFragment (fragment_another_content.xml)
+        if (savedInstanceState == null) {
+            loadFragment(AnotherFragment())  // Set AnotherFragment as default
         }
     }
 
@@ -46,8 +47,7 @@ class MainActivity : AppCompatActivity() {
             }
 
             R.id.menu_exit -> {
-                // Show submenu for exit confirmation
-                // (You may want to implement this in a dialog)
+                // Handle exit logic (optional submenu)
                 true
             }
 
