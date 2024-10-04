@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_go_to_another"
+        android:title="Go to Another Fragment"
+        android:icon="@drawable/img"
+        app:showAsAction="ifRoom"/> <!-- Changed to ifRoom -->
+
+    <item
+        android:id="@+id/menu_show_dialog"
+        android:title="Show Dialog"
+        android:icon="@drawable/img_1"
+        app:showAsAction="ifRoom"/> <!-- Changed to ifRoom -->
+
+    <item
+        android:id="@+id/menu_exit"
+        android:title="Exit App"
+        android:icon="@drawable/img_2"
+        app:showAsAction="ifRoom"> <!-- Changed to ifRoom -->
+        <menu>
+            <item
+                android:id="@+id/menu_exit_confirm"
+                android:title="Confirm Exit" />
+            <item
+                android:id="@+id/menu_exit_cancel"
+                android:title="Cancel Exit" />
+        </menu>
+    </item>
+</menu>
