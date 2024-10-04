@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cbab64c0-ab17-44d2-a945-5133fa9af30e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/java/com/gereso/terramasterhub/AddItemDialogFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/java/com/gereso/terramasterhub/AddItemDialogFragment2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/java/com/gereso/terramasterhub/Expert.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/java/com/gereso/terramasterhub/ExpertAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/java/com/gereso/terramasterhub/ExpertDetailActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/java/com/gereso/terramasterhub/ExpertFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/java/com/gereso/terramasterhub/HomePageActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/java/com/gereso/terramasterhub/Knowledge.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/java/com/gereso/terramasterhub/KnowledgeAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/java/com/gereso/terramasterhub/KnowledgeDetailActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/java/com/gereso/terramasterhub/KnowledgeFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/java/com/gereso/terramasterhub/SignUpActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/java/com/gereso/terramasterhub/Surveyor.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/java/com/gereso/terramasterhub/SurveyorAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/java/com/gereso/terramasterhub/SurveyorDetailActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/java/com/gereso/terramasterhub/SurveyorFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/java/com/gereso/terramasterhub/UserFragment.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/back2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/backgroundbottomimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/bell.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/bookies.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/buttonimagecustom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/card_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/circle_mask.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/custombutton.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/edittext_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/email.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/expert.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/favorite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/footericon1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/footericon2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/footericon3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/footericon4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/headerbackground.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/heatmess.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/ic_baseline_alternate_email_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/ic_baseline_cameraswitch_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/ic_baseline_drive_file_rename_outline_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/ic_baseline_lock_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/ic_baseline_notifications_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/knowledge.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/knowledgebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/landsurveyor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/location.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/message.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/noprofile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/proposals.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/recycler_card.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/search.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/terramasterhubicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/drawable/user.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/font/clashforgrotesk.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/font/clashgrotesk_semibold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/font/generalsans.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/font/generalsans_semibold.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/font/limerock.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/font/limerockk.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/font/vacation.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/font/virtous_slab_thin.otf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/layout/activity_expert_detail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/layout/activity_home_page.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/layout/activity_knowledge_detail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/layout/activity_sign_up.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/layout/activity_surveyor_detail.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/layout/appbar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/layout/fragment_add_item_dialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/layout/fragment_add_item_dialog2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/layout/fragment_expert.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/layout/fragment_knowledge.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/layout/fragment_surveyor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/layout/fragment_user.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/layout/knowledge_add_dialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/layout/knowledge_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/layout/recyclerviewexperts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/menu/bottom_nav_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Final Project INTPROG/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/app/src/androidTest/java/com/gereso/projectforintprog/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/app/src/main/java/com/gereso/projectforintprog/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/app/src/main/res/mipmap-hdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/app/src/main/res/mipmap-mdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/app/src/main/res/xml/backup_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/app/src/main/res/xml/data_extraction_rules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/app/src/test/java/com/gereso/projectforintprog/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ProjectForIntprog/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../button_click.mp3" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2myMT73JmHbiNkqXEswasSextlI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "android.gradle.sync.needed": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Acer/Downloads/BottomNavigation"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbab64c0-ab17-44d2-a945-5133fa9af30e" name="Changes" comment="" />
+      <created>1728044369541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1728044369541</updated>
+    </task>
+    <servers />
+  </component>
+</project>
